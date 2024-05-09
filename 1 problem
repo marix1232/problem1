@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=ende">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Работы с GIT</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <p class="text">Привет! На улице лето. Изучаем Git</p>
+  </body>
+</html>  
